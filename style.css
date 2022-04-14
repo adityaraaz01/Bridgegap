@@ -236,12 +236,17 @@ ul,h3,p,h1{
     display: flex;
     align-items: center;
     justify-content: center;
-    position: absolute;
-    bottom:0;
+    margin-top: auto;
     height: 2.25rem;
     width: 100%;
     background-color: black;
     color: lightgray;
+}
+/*container*/
+.container{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 /* media queries */
