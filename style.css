@@ -31,6 +31,8 @@ ul,h3,p,h1{
     height: 2.5rem;
     align-items: center;
     padding: 1.5rem 3rem;
+    max-width: 1440px;
+    margin: 0 auto;
 }
 .navbar-links {
     height: 100%;
@@ -157,6 +159,10 @@ ul,h3,p,h1{
     display: inline;
     font-size: 10px;
     padding: 5px 10px;
+}
+
+.button:hover {
+    background-color: rgb(180, 177, 131);
 }
 
 /* about us  */
