@@ -238,7 +238,7 @@ ul,h3,p,h1{
 
 
 /* footer  */
-.foot{
+footer{
     display: flex;
     align-items: center;
     justify-content: center;
